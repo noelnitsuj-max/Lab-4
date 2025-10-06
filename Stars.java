@@ -16,7 +16,7 @@ int width, lines, stars;
 Scanner keyboard = new Scanner(System.in);
 //test to see if width is even (width%2==0). If true increment width by 1.
 ////top half section
-    System.out.println("Enter an odd number");
+    System.out.print("Enter an odd number");
     width = keyboard.nextInt();
 if(width%2==0){
     width ++;

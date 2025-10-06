@@ -19,13 +19,13 @@ String yes;
 Scanner keyboard = new Scanner(System.in);
 do{ ////create working program and then put in do-while
 //Enter msg to user something like, Enter a whole number, a space,
-System.out.println("Enter a whole number");
+System.out.print("Enter a whole number");
 // and C or F (ie 100 F converts to Cels");
 //get inputTemp
 inputTemp = keyboard.nextInt();
 keyboard.nextLine(); 
 //get inputUnit, recommend forcing toUpperCase or toLowerCase
-System.out.println("enter the units");
+System.out.print("enter the units");
 inputUnit = keyboard.nextLine().toUpperCase();
 // before getting char. This will make the while pit easier :-)
 ////while loop pit. You want a 'C' OR 'F', if a user enters this
