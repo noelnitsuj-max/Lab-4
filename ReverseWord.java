@@ -37,7 +37,6 @@ flipped = "";
 for(int x = 1; x <= word.length() + 1; x ++){
     flipped += String.valueOf(combined.charAt(combined.length() - x));
 }
-System.out.println(flipped);
 // in combined and add char to flipped, decrement for loop, and stop when no more
 // chars left (when you reach 0)
 // use something like this in the for loop,flipped+=combined.charAt(i);
