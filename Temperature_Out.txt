@@ -1,0 +1,15 @@
+Enter a whole number100
+enter the unitsf
+100f is 37.8
+Do you want to calculate another temp?
+yes
+Enter a whole number212
+enter the unitsf
+212f is 100.0
+Do you want to calculate another temp?
+yes
+Enter a whole number0
+enter the unitsc
+0c is 32.0
+Do you want to calculate another temp?
+no
